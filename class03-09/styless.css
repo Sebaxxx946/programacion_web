@@ -1,0 +1,25 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+width: 100vh;
+height: 100vh;
+border: solid red 1px;    
+
+}
+.box{
+    background-color:darkblue;
+    width: 500px;
+    height: 300px;
+}
+
+#botton{
+    display: flex;
+    justify-content: space-between;
+    align-items: ;
+}
